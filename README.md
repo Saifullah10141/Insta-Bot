@@ -228,6 +228,6 @@ Yes, this is a known false positive with Nuitka-compiled executables. Add an exc
 
 Made with ❤️ by **[Saif Developers](https://instabot-saif.vercel.app)**
 
-© 2025 Saif Developers · All Rights Reserved
+© 2026 Saif Developers · All Rights Reserved
 
 </div>
