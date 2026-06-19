@@ -28,7 +28,7 @@
 
 **Insta Bot** is a professional Windows desktop application built by **Saif Developers** that automates Instagram DM outreach. Add your target profiles, write your messages, set your delays — and let the bot handle the rest while you focus on closing deals.
 
-> ⚡ Built with Python + Playwright · Protected with cloud license system · Compiled to native C++ via Nuitka
+> ⚡ Protected with cloud license system · Compiled to native C++
 
 ---
 
