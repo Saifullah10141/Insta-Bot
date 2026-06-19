@@ -45,14 +45,6 @@
 | 🛑 **Stop Anytime** | Graceful stop button — finishes current DM then halts |
 | 🌐 **Cloud Verification** | License verified on every startup — remotely revokable |
 
----
-
-## 🖥️ Screenshots
-
-> *Screenshots coming soon — stay tuned.*
-
----
-
 ## 📥 Download & Setup
 
 ### Requirements
