@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://instabot-saif.vercel.app/logo.png" alt="Insta Bot Logo" width="120" height="120" style="border-radius:24px"/>
+<img src="logo.png" alt="Insta Bot Logo" width="120" height="120" style="border-radius:24px"/>
 
 # Insta Bot
 
