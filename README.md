@@ -10,12 +10,12 @@
 
 [![Website](https://img.shields.io/badge/Website-instabot--saif.vercel.app-e91e8c?style=for-the-badge&logo=vercel&logoColor=white)](https://instabot-saif.vercel.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Get_License-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923097171127?text=Hi%20I%20want%20to%20buy%20Insta%20Bot%20license)
-[![Windows](https://img.shields.io/badge/Windows-8%20%7C%2010%20%7C%2011-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://drive.google.com/uc?export=download&id=1TwYpfC45p-aODeNol0s53sxWy4uEdSPy)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1TwYpfC45p-aODeNol0s53sxWy4uEdSPy)
+[![Windows](https://img.shields.io/badge/Windows-8%20%7C%2010%20%7C%2011-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Saifullah10141/Insta-Bot/releases/download/v1.4.2.0/Insta.Bot.exe)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)](https://github.com/Saifullah10141/Insta-Bot/releases/download/v1.4.2.0/Insta.Bot.exe)
 
 <br/>
 
-[⬇️ Download Now](https://drive.google.com/uc?export=download&id=1TwYpfC45p-aODeNol0s53sxWy4uEdSPy) &nbsp;&nbsp;·&nbsp;&nbsp;
+[⬇️ Download Now](https://github.com/Saifullah10141/Insta-Bot/releases/download/v1.4.2.0/Insta.Bot.exe) &nbsp;&nbsp;·&nbsp;&nbsp;
 [🌐 Visit Website](https://instabot-saif.vercel.app) &nbsp;&nbsp;·&nbsp;&nbsp;
 [💬 Get License](https://wa.me/923097171127?text=Hi%20I%20want%20to%20buy%20Insta%20Bot%20license) &nbsp;&nbsp;·&nbsp;&nbsp;
 [📧 Email Us](mailto:saifullahanwar00040@gmail.com)
@@ -65,10 +65,10 @@
 **1.** Download the latest installer:
 
 ```
-👉 https://drive.google.com/uc?export=download&id=1TwYpfC45p-aODeNol0s53sxWy4uEdSPy
+👉 https://github.com/Saifullah10141/Insta-Bot/releases/download/v1.4.2.0/Insta.Bot.exe
 ```
 
-**2.** Run `InstaBot_Setup.exe` — the installer will guide you through setup.
+**2.** Run `Insta Bot.exe` — the installer will guide you through setup.
 
 > The installer will:
 > - Create a Start Menu shortcut
@@ -102,9 +102,9 @@ Insta Bot uses a **proprietary cloud-based licensing system** with multi-layer p
 ## 📖 How to Use
 
 ```
-Step 1 ──▶ Open SaifInstaBot.exe
+Step 1 ──▶ Open Insta Bot.exe
 Step 2 ──▶ Enter license key → Activate
-Step 3 ──▶ Profiles tab: add Instagram usernames (one per line, no @)
+Step 3 ──▶ Profiles tab: add Instagram usernames
 Step 4 ──▶ Messages tab: write your DM messages
 Step 5 ──▶ Delays tab: set timing (seconds) between actions
 Step 6 ──▶ Settings tab: verify Chrome path
@@ -138,17 +138,6 @@ Step 8 ──▶ Monitor live results in Output tab
 - Keep Chrome and the bot **updated**
 
 ---
-
-## 🏗️ Tech Stack
-
-```
-Platform    →  Windows Desktop Application
-Automation  →  Chromium-based browser automation
-Compilation →  Native C++ compiled binary
-Installer   →  Inno Setup (Start Menu + Desktop shortcut)
-Protection  →  Proprietary cloud license system
-Data Store  →  %LOCALAPPDATA%\InstaBot\src\
-```
 
 ---
 
